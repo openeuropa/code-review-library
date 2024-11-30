@@ -4,7 +4,7 @@
   "license": "EUPL-1.2",
   "require": {
     "php": ">=8.1",
-    "openeuropa/code-review": "OEL-3328-dev",
+    "openeuropa/code-review": "^3.0",
     "phpstan/phpstan": "^1.12",
     "squizlabs/php_codesniffer": "^3.10"
   },
